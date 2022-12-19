@@ -74,10 +74,10 @@ In the Tickets window.  Click Assigned to and use the drop-down menu to select a
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5RGuJHt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Within the ticket tab, you can see the thread of any updates to the ticket and submit updates upon assignment. Once finished, click Post Reply and the ticket gets assigned to the appropriate department and your customer gets notified of the change. 
 </p>
 <br />
 
