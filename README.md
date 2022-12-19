@@ -81,7 +81,7 @@ Within the ticket tab, you can see the thread of any updates to the ticket and s
 </p>
 <br />
 
-<h3>Workingthe Issue</h3>
+<h3>Working the Issue</h3>
 
 <p>
 <img src="https://i.imgur.com/MdomY0W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
