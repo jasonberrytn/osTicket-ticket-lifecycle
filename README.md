@@ -34,7 +34,7 @@ Go to localhost/osTicket/index.php  and click Open a New Ticket button to create
 <br />
 
 <p>
-<img src="https://imgur.com/gallery/hckacbW" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Mnw3kNf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Fill out the following fields: email address, full name, clock on help topic and select the drop-down menu, type an issue summary, type in the details in the box below, when finished click on create ticket.
