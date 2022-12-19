@@ -34,7 +34,7 @@ Go to localhost/osTicket/index.php  and click Open a New Ticket button to create
 </p>
 <br />
 
-<h3>Assignment and communication</h3>
+<h3>Assignment and Communication</h3>
 <p>
 <img src="https://i.imgur.com/Mnw3kNf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -75,7 +75,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-<h3>Working on the issue</h3>
+<h3>Workingthe Issue</h3>
 
 <p>
 <img src="https://i.imgur.com/MdomY0W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
