@@ -34,7 +34,6 @@ Go to localhost/osTicket/index.php  and click Open a New Ticket button to create
 </p>
 <br />
 
-<h3>Assignment and Communication</h3>
 <p>
 <img src="https://i.imgur.com/Mnw3kNf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -42,6 +41,8 @@ Go to localhost/osTicket/index.php  and click Open a New Ticket button to create
 Fill out the following fields: email address, full name, clock on help topic and select the drop-down menu, type an issue summary, type in the details in the box below, when finished click on create ticket.
 </p>
 <br />
+
+<h3>Assignment and Communication</h3>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
