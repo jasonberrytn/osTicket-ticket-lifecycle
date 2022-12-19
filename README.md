@@ -133,9 +133,9 @@ osTicket will take you back to the Tickets tab.  You will see a confirmation tha
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hZVoZtW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To view the closed ticket, under the Tickets tab click on Closed-->Click on on today from the drop-down menu--> view closed ticket by clicking on the ticket number in the closed ticket list.
 </p>
 <br />
