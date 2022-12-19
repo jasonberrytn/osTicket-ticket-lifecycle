@@ -64,6 +64,10 @@ Open your helpdesk ticket by clicking on the ticket number.  From there you can 
 <p>
 <img src="https://i.imgur.com/8KaX0Vx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+<p>
+<img src="https://i.imgur.com/MNiXMEH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <p>
 In the Tickets window.  Click Assigned to and use the drop-down menu to select a support rep.
 </p>
