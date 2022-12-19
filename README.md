@@ -41,6 +41,8 @@ Fill out the following fields: email address, full name, clock on help topic and
 </p>
 <br />
 
+<h2>Resolve ticket as an agent</h2>
+
 <p>
 <img src="https://i.imgur.com/MdomY0W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
